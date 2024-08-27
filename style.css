@@ -1,4 +1,8 @@
 body {
-    background-color: rgb(192, 161, 161);
+    background-color: rgb(141, 132, 132);
+    text-align: center;
 }
 
+p {
+    color: rgb(236, 117, 117);
+}
