@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(141, 132, 132);
+    background-color: #918888;
     text-align: center;
 }
 
@@ -8,4 +8,7 @@ p {
 }
 .img1 {
     width: 50%;
+}
+header {
+    border: solid 2px white;
 }
